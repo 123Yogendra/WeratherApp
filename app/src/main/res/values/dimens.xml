@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Margin -->
+    <dimen name="margin_small">5dp</dimen>
+    <dimen name="margin_medium">10dp</dimen>
+    <dimen name="margin_large">15dp</dimen>
+
+
+
+    <!-- Text Size  -->
+    <dimen name="text_medium">18sp</dimen>
+
+    <!-- Text Size  -->
+    <dimen name="weather_image_width">70dp</dimen>
+    <dimen name="weather_image_height">70dp</dimen>
+
+
+
+</resources>

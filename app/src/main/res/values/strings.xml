@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <!-- Setting Activity -->
+
+    <string name="next">Next</string>
+    <string name="select_city_name">Select your city name</string>
+
+    <!-- Weather Display Activity -->
+
+    <string name="cloud_cover">Cloud Cover :</string>
+    <string name="feels_like">Feels Like :</string>
+    <string name="humidity">Humidity : </string>
+    <string name="pressure">Pressure :</string>
+    <string name="visibility">Visibility :</string>
+
+    <string name="wind_dir">Wind Direction :</string>
+    <string name="wind_speed">Wind Speed :</string>
+    <string name="temp_in_cel">Temp(℃) :</string>
+    <string name="temp_in_for">Temp(℉) :</string>
+
+    <string name="sun_rise_set">Sun(rise/set) :</string>
+    <string name="moon_rise_set">Moon(rise/set) :</string>
+    <string name="uv_index">UV Index :</string>
+
+
+    <string name="kmph">kmph</string>
+    <string name="miles">miles</string>
+    <string name="mb">mb</string>
+    <string name="km">km</string>
+
+
+    <!-- Validation Message -->
+
+    <string name="internet_issue">Please check device Internet connection.</string>
+    <string name="please_wait">Please wait...</string>
+
+
+
+
+    <string-array name="array_cities">
+
+        <item>Amsterdam</item>
+        <item>Ankara</item>
+        <item>Athens</item>
+        <item>Bangkok</item>
+        <item>Beijing</item>
+        <item>Berlin</item>
+        <item>Brussels</item>
+        <item>Berne</item>
+        <item>Brussels</item>
+        <item>Chandigarh</item>
+
+        <item>Cairo</item>
+        <item>Canberra</item>
+        <item>Cannes</item>
+        <item>Chicago</item>
+        <item>Cologne</item>
+        <item>Copenhagen</item>
+        <item>Damascus</item>
+        <item>Delhi</item>
+        <item>Dublin</item>
+        <item>Dubai</item>
+
+        <item>Florence</item>
+        <item>Geneve</item>
+        <item>Havana</item>
+        <item>Helsinki</item>
+        <item>HongKong</item>
+        <item>Honolulu</item>
+        <item>Istanbul</item>
+        <item>Jakarta</item>
+        <item>Jerusalem</item>
+
+        <item>Kansas</item>
+        <item>Kathmandu</item>
+        <item>Lisbon</item>
+        <item>London</item>
+        <item>LosAngeles</item>
+        <item>Luxembourg</item>
+        <item>Madrid</item>
+        <item>Manila</item>
+        <item>Melbourne</item>
+        <item>Mexico</item>
+
+        <item>Milan</item>
+        <item>Montreal</item>
+        <item>Moscow</item>
+        <item>Mumbai</item>
+        <item>Munich</item>
+        <item>Nazareth</item>
+        <item>NewYork</item>
+        <item>Nice</item>
+        <item>Osaka</item>
+        <item>Ottawa</item>
+
+        <item>Oslo</item>
+        <item>Paris</item>
+        <item>Philadelphia</item>
+        <item>Prague</item>
+        <item>Quito</item>
+        <item>Reykjavík</item>
+        <item>Santiago</item>
+        <item>Singapore</item>
+        <item>Stockholm</item>
+        <item>Sydney</item>
+    </string-array>
+
+
+
+
+
+</resources>
